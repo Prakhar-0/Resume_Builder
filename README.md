@@ -2,7 +2,7 @@
 
 Web based editor to create Resume in a customizable template with the facility to save the file in .pdf formate.
 
-###### Live Demo : [TODO](https://prakhar-0.github.io/Resume_Builder/)
+###### Live Demo : https://prakhar-0.github.io/Resume_Builder/
 
 ###### Technologies: HTML, CSS, JavaScript
 
